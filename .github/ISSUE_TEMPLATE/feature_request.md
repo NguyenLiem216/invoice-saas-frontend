@@ -10,6 +10,6 @@ assignees: ''
 <!-- Mô tả ngắn gọn về feature -->
 
 ## ✅ Acceptance Criteria
-- [ ] Điều kiện 1
+- [v] Điều kiện 1
 - [ ] Điều kiện 2
 - [ ] Điều kiện 3
